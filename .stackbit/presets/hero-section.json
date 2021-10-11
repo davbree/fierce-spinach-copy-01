@@ -10,7 +10,7 @@
         },
         {
             "label": "My Hero Section 2",
-            "thumbnail": "images/placeholder.png",
+            "thumbnail": ".stackbit/presets/images/HeroSection/Hero Section With Form on the Right.png",
             "data": {
                 "variant": "variant-a",
                 "title": "Another Title...",
