@@ -2,7 +2,7 @@
     "model": "HeroSection",
     "presets": [{
             "label": "My Hero Section 1",
-            "thumbnail": "images/placeholder.png",
+            "thumbnail": "images/HeroSection/Hero Section With Form at the Bottom.png",
             "data": {
                 "variant": "variant-a",
                 "title": "My Title!!!"
